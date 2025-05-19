@@ -8,7 +8,7 @@ This project implements a pipeline for author prediction, fine-tuning a language
 
 The project is organized into several Jupyter notebooks and auxiliary directories:
 ```
-Group_13_LT/
+code/
 ├── notebooks/
 │   ├── 01_Author_Prediction.ipynb # Predicts author from review text
 │   ├── 02_Fine_Tuning.ipynb       # Fine-tunes GPT-2 models for each author
