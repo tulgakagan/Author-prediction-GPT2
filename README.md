@@ -7,7 +7,7 @@ This project implements a pipeline for author prediction, fine-tuning a language
 ## Project Structure
 
 The project is organized into several Jupyter notebooks and auxiliary directories:
-
+```
 Group_13_LT/
 ├── notebooks/
 │   ├── 01_Author_Prediction.ipynb # Predicts author from review text
@@ -30,7 +30,7 @@ Group_13_LT/
 │   └── word_tfidf_vect.pkl
 ├── requirements.txt
 └── README.md
-
+```
 ## Workflow / Execution Order
 
 The project notebooks are designed to be run in the following order:
